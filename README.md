@@ -52,7 +52,7 @@ This is a proof-of-concept script that demonstrates how a malicious actor could 
 3.  **Invite the Bot to Your TEST Server:**
     *   Generate an invite link in the "OAuth2" -> "URL Generator" tab.
     *   Select the `bot` scope.
-    *   Select **Administrator** permissions. *This is to demonstrate the power of over-privileged bots.*
+    *   Select **Administrator** permissions.
     *   Use the generated URL to invite the bot to your test server.
 
 4.  **Use the program**
