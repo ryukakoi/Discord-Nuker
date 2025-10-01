@@ -14,7 +14,7 @@
 >
 > **Unauthorized use** of this tool to disrupt, damage, or destroy Discord servers is:
 > - A direct **violation of Discord's Terms of Service**.
-> - Likely **illegal** in your jurisdiction, constituting computer fraud, abuse, or vandalism.
+> - Likely **illegal** in your jurisdiction, constituting computer fraud, abuse, or vandalism. 
 > - Punishable by a **permanent ban from Discord** and potential **legal action**.
 >
 > **You are solely responsible for your actions.** The developer assumes **no liability** for any misuse or damage caused by this software. Use this only on a **private, self-owned server** that you have created for testing purposes.
