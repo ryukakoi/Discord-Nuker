@@ -10,7 +10,7 @@
 
 > This software is provided **STRICTLY FOR EDUCATIONAL AND RESEARCH PURPOSES ONLY**. It is designed to demonstrate security vulnerabilities in Discord's API and the potential damage of poor permission management.
 >
-> **❗ MISUSE OF THIS TOOL IS EXPRESSLY FORBIDDEN. ❗**
+> **❗ MISUSE OF THIS TOOL IS EXPRESSLY FORBIDDEN. ❗** 
 >
 > **Unauthorized use** of this tool to disrupt, damage, or destroy Discord servers is:
 > - A direct **violation of Discord's Terms of Service**.
